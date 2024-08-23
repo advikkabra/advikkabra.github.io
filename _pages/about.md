@@ -1,0 +1,1 @@
+Hi! I am Advik Kabra, currently pursuing a bachelor's degree in computer science and engineering, at the Indian Institute of Technology, Madras. I am from Bangalore, and I do not have enough info about myself to make an about page.
