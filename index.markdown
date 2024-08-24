@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author_profile: true
 ---
 
 I'm Advik Kabra, a student pursuing computer science and engineering at the Indian Institute of Technology, Madras. I am passionate about many things, including computer science, mathematics, football, quizzing, movies, TV shows, books and learning in general. This blog is to showcase what work I've been up to, and to write about anything else I find interesting.
