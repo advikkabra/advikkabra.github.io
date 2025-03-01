@@ -73,11 +73,7 @@ defaults:
 author:
   name: "Advik Kabra"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Studying computer science at IIT Madras.
-
-  Probably wasting my time right now.
-
-  Such is life." # Note: Markdown is allowed
+  bio: "Studying computer science at IIT Madras."
   location: "Bangalore | Chennai"
   links:
     - label: "GitHub"
@@ -97,11 +93,7 @@ author:
       icon: "fas fa-fw fa-file"
       url: "/assets/resume.pdf"
 
-nav_links:
-  title: Resume
-  url: "/assets/resume.pdf"
-  target: _blank
-
+navigation: main
 
 footer:
   links:

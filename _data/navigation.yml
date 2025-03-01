@@ -1,0 +1,5 @@
+main:
+- title: Resume
+  url: /assets/resume.pdf
+  target: _blank
+
