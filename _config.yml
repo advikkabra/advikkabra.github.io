@@ -93,6 +93,9 @@ author:
     - label: "Institute email"
       icon: "fas fa-fw fa-graduation-cap"
       url: "mailto:advik@smail.iitm.ac.in"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/resume.pdf"
 
 
 footer:
