@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 
-I'm Advik Kabra, a student pursuing computer science and engineering at the Indian Institute of Technology, Madras. I am passionate about many things, including computer science, mathematics, football, quizzing, movies, TV shows, books and learning in general. This blog is to showcase what work I've been up to, and to write about anything else I find interesting.
+I'm Advik Kabra, a student pursuing computer science and engineering at the Indian Institute of Technology, Madras. I am passionate about many things, including computer science, mathematics, football, quizzing, movies, TV shows, books and learning in general. This blog is to showcase what work I've been up to, and to write about anything else I find interesting.  
 I am looking to intern in the summer of 2026, and am open to any opportunities that come my way. If you have any such opportunities, or just want to chat, feel free to reach out to me on my email.
 
 ### My Interests

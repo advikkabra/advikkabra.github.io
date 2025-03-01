@@ -97,6 +97,11 @@ author:
       icon: "fas fa-fw fa-file"
       url: "/assets/resume.pdf"
 
+nav_links:
+  title: Resume
+  url: "/assets/resume.pdf"
+  target: _blank
+
 
 footer:
   links:
